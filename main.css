@@ -49,17 +49,13 @@ li a:hover:not(.active) {
   background-color: #D3D3D3;
 }
 
-.active {
-  background-color: #4CAF50;
-}
-
-aside {
+aside{
   float: left;
-  width: 420px;
-  min-height: 480px
-  padding-right: 20px;
-  padding-top: 20px;
-  text-align: justify;
+	width: 420px;
+	min-height: 480px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: justify;
 }
 
 #intro-image {
@@ -71,7 +67,7 @@ aside {
    
 
 
-section {
+section{
   float: right;
   width: 420px;
   min-height: 480px;
@@ -80,7 +76,7 @@ section {
   text-align: justify;
 }
 
-footer {
+footer{
   clear: both;
   width: 890px;
   height: 180px
