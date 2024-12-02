@@ -65,7 +65,11 @@ aside {
 #intro-image {
   float: left;
   margin: 10px;
-]
+  height: 200px;
+  width=200px;
+}
+   
+
 
 section {
   float: right;
